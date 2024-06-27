@@ -7,7 +7,7 @@
 
 body{
   position: relative;
-  background-color:  #f92929a8;
+  background-color:  #9c60a0a8;
   font-family: 'Architects Daughter', cursive;
 }
 
@@ -54,7 +54,7 @@ button:hover{
 
 #inner_modal i{
   font-size: 1.4rem;
-  color: gray;
+  color: rgb(160, 148, 148);
   cursor: pointer;
   margin-top: -285px;
   margin-left: -35px;
@@ -62,7 +62,7 @@ button:hover{
 }
 
 #inner_modal i:hover{
-  color: lightgray;
+  color: rgb(241, 232, 232);
 }
 
 .container{
