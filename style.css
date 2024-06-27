@@ -7,7 +7,7 @@
 
 body{
   position: relative;
-  background-color:  #c68c53a8;
+  background-color:  #f92929a8;
   font-family: 'Architects Daughter', cursive;
 }
 
@@ -16,7 +16,7 @@ button{
   outline: none;
   cursor: pointer;
   font-family: inherit;
-  border-radius: 5px;
+  border-radius: 6px;
   background: whitesmoke;
   border: 1px solid lightgray;
 }
